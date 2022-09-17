@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @joemore24
-- 👀 I’m interested in ... java android, maybe python
-- 🌱 I’m currently learning ... trying python
+- 👀 I’m interested in ... java
+- 🌱 I’m currently learning ... array
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... python
+- 📫 How to reach me ... junior developer on java
 
 <!---
 joemore24/joemore24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
